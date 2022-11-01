@@ -1,6 +1,6 @@
 # Javascript-Problem-Solving-Assignments
 
-## How to look through Assignments
+## How to look through Assignments...
 
 ### In each directory, there will be seperate assignments split into multiple tasks.
 
